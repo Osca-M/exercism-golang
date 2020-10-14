@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2619eed3-7ed7-4ccb-a1f0-51d0259e7061" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ioIkhuuHPU1a96SEQl2X0z9ITr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2619eed3-7ed7-4ccb-a1f0-51d0259e7061" name="Default Changelist" comment="" />
+      <created>1602567666759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602567666759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2675" y="478" width="400" height="333" key="#Go_Modules" timestamp="1602568176365">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state x="2675" y="478" width="400" height="333" key="#Go_Modules/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602568176365" />
+    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602685609791">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602685609791" />
+  </component>
+</project>
