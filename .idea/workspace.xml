@@ -30,6 +30,28 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main_dir" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="example_two_fer_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$/two-fer" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/two-fer/example_two_fer_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.example_two_fer_test.go" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,9 +72,29 @@
       <screen x="1920" y="85" width="1920" height="1080" />
     </state>
     <state x="2675" y="478" width="400" height="333" key="#Go_Modules/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602568176365" />
-    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602685609791">
+    <state width="1870" height="271" key="GridCell.Tab.0.bottom" timestamp="1602855105509">
       <screen x="1920" y="85" width="1920" height="1080" />
     </state>
-    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602685609791" />
+    <state width="1870" height="271" key="GridCell.Tab.0.bottom/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602855105509" />
+    <state width="1870" height="271" key="GridCell.Tab.0.center" timestamp="1602855105509">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.0.center/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602855105509" />
+    <state width="1870" height="271" key="GridCell.Tab.0.left" timestamp="1602855105509">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.0.left/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602855105509" />
+    <state width="1870" height="271" key="GridCell.Tab.0.right" timestamp="1602855105509">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="271" key="GridCell.Tab.0.right/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602855105509" />
+    <state x="2361" y="277" width="1037" height="736" key="SettingsEditor" timestamp="1602779154163">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state x="2361" y="277" width="1037" height="736" key="SettingsEditor/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602779154163" />
+    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603293831670">
+      <screen x="1920" y="85" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1603293831670" />
   </component>
 </project>

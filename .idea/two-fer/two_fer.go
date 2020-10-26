@@ -9,3 +9,10 @@ func ShareWith(name string) string {
 	}
 	return fmt.Sprintf("One for you, one for me.")
 }
+
+func main() {
+	var name string
+	fmt.Println("Enter your Name: ")
+	fmt.Scanln(&name)
+	fmt.Println(ShareWith(name))
+}
