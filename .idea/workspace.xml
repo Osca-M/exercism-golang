@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2619eed3-7ed7-4ccb-a1f0-51d0259e7061" name="Default Changelist" comment="" />
+    <list default="true" id="2619eed3-7ed7-4ccb-a1f0-51d0259e7061" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hamming_main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamming/hamming.go" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/hamming.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +28,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -67,6 +83,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="2675" y="478" width="400" height="333" key="#Go_Modules" timestamp="1602568176365">
       <screen x="1920" y="85" width="1920" height="1080" />
@@ -92,9 +119,9 @@
       <screen x="1920" y="85" width="1920" height="1080" />
     </state>
     <state x="2361" y="277" width="1037" height="736" key="SettingsEditor/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1602779154163" />
-    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603293831670">
+    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603783059365">
       <screen x="1920" y="85" width="1920" height="1080" />
     </state>
-    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1603293831670" />
+    <state x="2020" y="219" width="1720" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.85.1920.1080/0.119.1920.961@1920.85.1920.1080" timestamp="1603783059365" />
   </component>
 </project>
