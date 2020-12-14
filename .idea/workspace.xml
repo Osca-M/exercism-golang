@@ -11,9 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2619eed3-7ed7-4ccb-a1f0-51d0259e7061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hamming_main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/hamming.go" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/hamming.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamming_main.go" beforeDir="false" afterPath="$PROJECT_DIR$/hamming_main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2675" y="478" width="400" height="333" key="#Go_Modules" timestamp="1602568176365">

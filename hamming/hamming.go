@@ -2,19 +2,15 @@ package hamming
 
 import (
 	"errors"
-	"fmt"
+	"unicode/utf8"
 )
-
-// Distance returns difference between strings or an error in the case we have one
 func Distance(a, b string) (int, error) {
 	distance := 0
 	type myError interface {
 		Error() string
 	}
-	fmt.Println(a, "a")
-	fmt.Println(b, "b")
 
-	if len(a) != len(b) {
+	if utf8.RuneCountInString(a) != utf8.RuneCountInString(b) {
 		defer func() {
 			if r := recover(); r != nil {
 				e := myError(errors.New("panic has occurred"))
@@ -23,8 +19,9 @@ func Distance(a, b string) (int, error) {
 		}()
 		return distance, errors.New("panic in here")
 	}
-	for i := range a {
-		if string([]rune(a)[i]) != string([]rune(b)[i]) {
+	ar, br := []rune(a), []rune(b)
+	for i := range ar {
+		if ar[i] != br[i] {
 			distance++
 		}
 	}
