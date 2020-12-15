@@ -6,7 +6,7 @@ import (
 )
 
 func main()  {
-	fmt.Println(hamming.Distance("aüa", "aüa"))
+	fmt.Println(hamming.Distance("Señor", "senor"))
 }
 //GGACGGATTCTG
 //AGGACGGATTCT

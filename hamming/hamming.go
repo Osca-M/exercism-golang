@@ -4,8 +4,10 @@ import (
 	"errors"
 	"unicode/utf8"
 )
+
+// Distance function to calculate the difference between two strings, or errors
 func Distance(a, b string) (int, error) {
-	distance := 0
+	var distance int
 	type myError interface {
 		Error() string
 	}
